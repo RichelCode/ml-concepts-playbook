@@ -1,0 +1,108 @@
+# Course Map
+
+This document provides a structured roadmap for navigating the concepts in this repository.
+
+It is designed to help you move through machine learning topics in a logical and intuitive order, without feeling overwhelmed.
+
+---
+
+## Learning Flow
+
+The content in this repository follows a progressive structure:
+
+1. Start with foundational concepts
+2. Move into core supervised learning models
+3. Explore more advanced algorithms
+4. Understand model performance and limitations
+5. Learn modern and high-performance techniques
+
+---
+
+## Concept Roadmap
+
+### 1. Foundations
+
+* What machine learning is
+* Types of machine learning problems
+* Regression vs classification
+* How models learn from data
+
+---
+
+### 2. Linear Models
+
+* Linear Regression
+* Assumptions and limitations
+* Regularization techniques
+
+  * Ridge (L2)
+  * Lasso (L1)
+
+---
+
+### 3. Classification Models
+
+* Logistic Regression
+* Naive Bayes
+* K-Nearest Neighbors (KNN)
+
+---
+
+### 4. Tree-Based Models
+
+* Decision Trees
+* Tree splitting intuition
+* Regression vs classification trees
+
+---
+
+### 5. Ensemble Learning
+
+* Bagging
+* Random Forest
+* Boosting
+* AdaBoost
+
+---
+
+### 6. Clustering Techniques
+
+* K-Means
+* Hierarchical Clustering
+* DBSCAN
+* Cluster validation (e.g., silhouette score)
+
+---
+
+### 7. Model Behavior
+
+* Bias vs Variance
+* Overfitting vs Underfitting
+* Generalization
+
+---
+
+### 8. Advanced Models
+
+* XGBoost
+* Support Vector Machines (SVM)
+
+---
+
+## How to Use This Map
+
+* Follow the sections in order for a structured learning path
+* Use each section as a checkpoint for understanding
+* Revisit earlier sections when needed to reinforce concepts
+
+---
+
+## Goal
+
+The goal is not just to cover topics, but to build:
+
+* Strong intuition
+* Clear understanding
+* Confidence in explaining concepts
+
+---
