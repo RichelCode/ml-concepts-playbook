@@ -1,4 +1,4 @@
-# 00 — 00:00 to 00:30 — Topic Title
+# Topic Title
 
 ## Focus of this block
 
