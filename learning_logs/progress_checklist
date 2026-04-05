@@ -1,0 +1,45 @@
+# Progress Checklist
+
+Use this file as your watch tracker and commit tracker.
+
+- [ ] 01 — Foundations and Problem Framing  
+  Suggested commit: `docs(ml): add foundations and problem framing notes`
+
+- [ ] 02 — Linear Regression Core Ideas  
+  Suggested commit: `docs(ml): add linear regression core ideas`
+
+- [ ] 03 — Regularization: Ridge and Lasso  
+  Suggested commit: `docs(ml): add ridge and lasso notes`
+
+- [ ] 04 — Logistic Regression Intuition  
+  Suggested commit: `docs(ml): add logistic regression intuition`
+
+- [ ] 05 — Classification Metrics and Linear Regression Workflow  
+  Suggested commit: `docs(ml): add classification metrics and linear workflow notes`
+
+- [ ] 06 — Regularization Workflow and Naive Bayes  
+  Suggested commit: `docs(ml): add regularization workflow and naive bayes notes`
+
+- [ ] 07 — Naive Bayes, KNN, and Tree Basics  
+  Suggested commit: `docs(ml): add naive bayes knn and tree basics`
+
+- [ ] 08 — Decision Trees in Depth  
+  Suggested commit: `docs(ml): add decision tree notes`
+
+- [ ] 09 — Ensembles and Random Forest  
+  Suggested commit: `docs(ml): add ensemble and random forest notes`
+
+- [ ] 10 — AdaBoost and K-Means  
+  Suggested commit: `docs(ml): add adaboost and kmeans notes`
+
+- [ ] 11 — Hierarchical Clustering, Silhouette, and DBSCAN  
+  Suggested commit: `docs(ml): add hierarchical silhouette and dbscan notes`
+
+- [ ] 12 — Bias-Variance and XGBoost Classifier  
+  Suggested commit: `docs(ml): add bias variance and xgboost classifier notes`
+
+- [ ] 13 — XGBoost Regressor and SVM  
+  Suggested commit: `docs(ml): add xgboost regressor and svm notes`
+
+- [ ] 14 — SVM Wrap-Up and Review Map  
+  Suggested commit: `docs(ml): add svm wrap-up notes`
