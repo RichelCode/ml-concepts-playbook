@@ -1,4 +1,4 @@
-# 03 — 01:00 to 01:30 — Regularization: Ridge and Lasso
+# 03— Regularization: Ridge and Lasso
 
 ## Focus of this block
 
